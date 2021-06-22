@@ -15,5 +15,5 @@ langkah-langkah kinerja sistem astramodernland
 
 4.di pojok kanan atas terdapat tool property dan agent, jika akan mengklik property, anda akan di bawa ke halaman property, di sana terdapat banyak pilihan property.
 
-5. klik salah satu property yanng menarik minat anda, disana akan muncul detail property hingga agent yang menjadi perantara anda, klik tombol hubungi, anda akan langsung tersabung dengan whatsapp dari agent, dan anda bisa melakukan transaksi
+5.klik salah satu property yanng menarik minat anda, disana akan muncul detail property hingga agent yang menjadi perantara anda, klik tombol hubungi, anda akan langsung tersabung dengan whatsapp dari agent, dan anda bisa melakukan transaksi
 
